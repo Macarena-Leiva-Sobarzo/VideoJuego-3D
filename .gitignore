@@ -20,6 +20,8 @@ MemoryCaptures/
 *.pidb
 *.booproj
 *.svd
+obj/
+.idea/
 
 # OS
 .DS_Store
